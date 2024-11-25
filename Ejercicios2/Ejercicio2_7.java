@@ -15,6 +15,5 @@ public class Ejercicio2_7 {
         System.out.println("Hijo1: " + " " + hijo1 + " " + apellidosHijos);
         System.out.println("Hijo2: " + " " + hijo2 + " " + apellidosHijos);
         System.out.println("Hijo3: " + " " + hijo3 + " " + apellidosHijos);
-        System.out.println("Hijo1 " + args.length + " " + apellidosHijos);
     }
 }
