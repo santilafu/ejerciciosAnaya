@@ -1,4 +1,4 @@
-package Ejercicios;
+package Ejercicios1;
 
 //Mi primer Array
 //Saber cuantos elementos hay en la sentencia
